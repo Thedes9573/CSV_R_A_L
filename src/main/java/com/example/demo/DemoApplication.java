@@ -17,7 +17,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		leector();
 	}
-	public static void leector() {
+	public static void lector() {
 		BufferedReader csvReader;
 		List<String> usuarios=new ArrayList<>();;
 		try {
